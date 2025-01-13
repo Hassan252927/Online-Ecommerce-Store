@@ -50,7 +50,7 @@ The application is composed of the following Features:
 
 
 ### Cart page
-![cart](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/caerpage.png)
+![cart](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/cartpage.png)
 
 
 ### details page
