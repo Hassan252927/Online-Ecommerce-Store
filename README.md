@@ -1,6 +1,6 @@
 # Meal Hut - An E-commerce React App.
 
-Demo here: [click me](https://hassan-ecommerce-store.vercel.app).
+Demo here: [click me](https://meal-hut.netlify.app/).
 
 An E commerce platform made using React JS, Context Api, Firebase (authentication) and more details in the below.
 
