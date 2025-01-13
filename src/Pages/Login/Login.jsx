@@ -2,7 +2,7 @@ import React, { useContext, useState } from 'react'
 import logo from '../../images/logo.png';
 import {FcGoogle} from 'react-icons/fc';
 import { Link, useHistory, useLocation } from 'react-router-dom';
-import { initializeLoginFramework, signInWithEmailAndPassword, signInWithGoogle } from './firebase.manager';
+import { initializeLoginFramework, signInWithEmailAndPassword, signInWithGoogle } from '../../../firebase.manager';
 import { userContext } from '../../App';
 const Login = () => {
     const [erros, setErros] = useState({name:"", email:"",password:""})

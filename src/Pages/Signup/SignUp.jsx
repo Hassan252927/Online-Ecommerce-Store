@@ -4,7 +4,7 @@ import './SignUp.css';
 import {FcGoogle} from 'react-icons/fc';
 import { Link, useHistory, useLocation } from 'react-router-dom';
 import { userContext } from '../../App';
-import {createUserWithEmailAndPassword, initializeLoginFramework, signInWithGoogle } from '../Login/firebase.manager.js';
+import {createUserWithEmailAndPassword, initializeLoginFramework, signInWithGoogle } from '../../../firebase.manager.js';
 const SignUp = () => {
     const [erros, setErros] = useState({name:"", email:"",password:""})
     const [emailError, setEmailError] = useState(false);

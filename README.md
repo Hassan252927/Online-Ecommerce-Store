@@ -38,7 +38,7 @@ The application is composed of the following Features:
 
 
 ### Home page
-![home](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/homepage.png)
+![home](https://raw.githubusercontent.com/Hassan252927/Online-Ecommerce-Store/master/homepage.png)
 
 
 ### Meals page
