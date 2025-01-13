@@ -42,27 +42,27 @@ The application is composed of the following Features:
 
 
 ### Meals page
-![meal](https://i.ibb.co/vzLBHyw/meal.png)
+![meal](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/mealpage.png)
 
 
 ### Login page
-![login](https://i.ibb.co/gmMfcwr/login.png)
+![login](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/loginpage.png)
 
 
 ### Cart page
-![cart](https://i.ibb.co/CwMqxb6/cart.png)
+![cart](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/caerpage.png)
 
 
 ### details page
-![details](https://i.ibb.co/vH4KJWV/de.png)
+![details](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/detailspage.png)
 
 
 ### delivery details page
-![delivery-details](https://i.ibb.co/5YkCjVf/di.png)
+![delivery-details](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/deliverypage.png)
 
 
 ### check out page
-![check out](https://i.ibb.co/0MR1MJx/last.png)
+![check out](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/checkoutpage.png)
 
 
 
