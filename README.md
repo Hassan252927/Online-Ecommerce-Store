@@ -42,27 +42,27 @@ The application is composed of the following Features:
 
 
 ### Meals page
-![meal](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/mealpage.png)
+![meal](https://raw.githubusercontent.com/Hassan252927/Online-Ecommerce-Store/master/mealpage.png)
 
 
 ### Login page
-![login](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/loginpage.png)
+![login](https://raw.githubusercontent.com/Hassan252927/Online-Ecommerce-Store/master/loginpage.png)
 
 
 ### Cart page
-![cart](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/cartpage.png)
+![cart](https://raw.githubusercontent.com/Hassan252927/Online-Ecommerce-Store/master/cartpage.png)
 
 
 ### details page
-![details](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/detailspage.png)
+![details](https://raw.githubusercontent.com/Hassan252927/Online-Ecommerce-Store/master/detailspage.png)
 
 
 ### delivery details page
-![delivery-details](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/deliverypage.png)
+![delivery-details](https://raw.githubusercontent.com/Hassan252927/Online-Ecommerce-Store/master/deliverypage.png)
 
 
 ### check out page
-![check out](https://github.com/Hassan252927/Online-Ecommerce-Store/src/images/checkoutpage.png)
+![check out](https://raw.githubusercontent.com/Hassan252927/Online-Ecommerce-Store/master/checkoutpage.png)
 
 
 
